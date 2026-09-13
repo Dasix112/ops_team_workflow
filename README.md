@@ -86,7 +86,7 @@ The written process documentation — how the workflow runs day to day, who acts
 
 The **prompts are versioned here** because prompt changes benefit from diffs. When a constraint is added, what matters is exactly which line changed and which failure prompted it. That history is not well served by a wiki page.
 
-📄 **Full process documentation:** Maintained in Confluence — https://dancmilitaru.atlassian.net/wiki/external/YWM4NjM2Y2UxODVlNDAyMzgyMjgzNzNmN2EzNzU2YzI
+📄 **Full process documentation:** Maintained in Confluence — https://dancmilitaru.atlassian.net/wiki/spaces/AUC/pages/1114113/AI+Use+Case+Supplier+Commitment+Verification?atlOrigin=eyJpIjoiOTBlMWRkOTYxMzc5NGZjNDk5NGU2ZDc3MWQ1OTE5ZGYiLCJwIjoiYyJ9
 
 ---
 
